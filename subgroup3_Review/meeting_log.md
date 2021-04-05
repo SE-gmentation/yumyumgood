@@ -12,7 +12,7 @@ https://docs.google.com/document/d/1devfoseTOtxMVJAFdH-tK8oQTwzRp158eYJK9Z_Usr4/
 - 문제 발견 및 원인 분석
 
 ### ✔️ 2021.04.03.Sat
-- 1차 User Stroy 작성
+- 1차 User Story 작성
 
 ### ✔️ 2021.04.06.Tue
 - 1차 User Story size 조정<br>
