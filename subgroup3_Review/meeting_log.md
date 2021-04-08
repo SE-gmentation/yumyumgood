@@ -26,4 +26,4 @@ https://docs.google.com/document/d/1devfoseTOtxMVJAFdH-tK8oQTwzRp158eYJK9Z_Usr4/
 
 ### ✔️ 2021.04.08.Thur
 - Deriving Use Cases from System Requirements<br>
-- Use Case 다이어 그램 및 각 Use Case별로 스키마 작성 역할 분담<br>
+- Use Case 다이어 그램 및 각 Use Case별로 스키마 작성 역할 분담
