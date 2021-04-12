@@ -32,3 +32,8 @@ https://docs.google.com/document/d/1devfoseTOtxMVJAFdH-tK8oQTwzRp158eYJK9Z_Usr4/
 - Use Case 다이어 그램, Use Cases 스키마 피드백 실시 후 수정 완료<br>
 - Refined User Story, Use Cases, UI requirement 수정 및 추가 완료<br>
 - Traceability Matrix 작성 예정 
+
+### ✔️ 2021.04.13.Tue
+- Traceability Matrix for Use cases 완료<br>
+- Extract Responsibility 역할 분담 전 UC-1에 대하여 같이 작성<br>
+- *Due 04.14* : 각자 맡은 Extract Responsibility 작성 후 Domain Model 
