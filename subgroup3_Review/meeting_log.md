@@ -37,3 +37,8 @@ https://docs.google.com/document/d/1devfoseTOtxMVJAFdH-tK8oQTwzRp158eYJK9Z_Usr4/
 - Traceability Matrix for Use cases 완료<br>
 - Extract Responsibility 역할 분담 전 UC-1에 대하여 같이 작성<br>
 - *Due 04.14* : 각자 맡은 Extract Responsibility 작성 후 Domain Model 
+
+### ✔️ 2021.04.14.Wed
+- Use Case별 Extract Responsibility 작성 후 Domain Model 그림 완성 (Use Case1에 대한 도메인 그림은 아직 미완성)<br>
+- Domain Model에 대한 Traceability Matrix 제출 여부 교수님께 확인받고 추후에 작성
+- *Due 04.24* : Use Case1에 대한 Domain Model 그림 완성 및 깃헙 파일구조 checkpoint1에 맞게 보기 좋게 정리
