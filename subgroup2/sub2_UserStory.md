@@ -2,7 +2,7 @@
 
 ## User stories
 
-> 2019 김승아, 20190323 배인경
+> 20193057 김승아, 20190323 배인경
 
 <hr/>
 
@@ -50,8 +50,8 @@
 
 _To-do_
 
-1. 발견한 문제 쓰기
-2. 원인 분석 쓰기
-3. 이에 맞춰 User Story 수정
-4. Identifier, Size 기준 정하고 부여하기
-5. Functional and Nunfunctional Requirements 작성 -> new file
+1. <strike>발견한 문제 쓰기</strike>
+2. <strike>원인 분석 쓰기</strike>
+3. <strike>이에 맞춰 User Story 수정</strike>
+4. <strike>Identifier, Size 기준 정하고 부여하기</strike>
+5. <strike>Functional and Nunfunctional Requirements 작성 -> new file</strike>
