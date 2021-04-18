@@ -1,7 +1,5 @@
 # 식당 담당자
 
----
-
 ## 0. 진입 화면
 
 `Initial design`
@@ -24,10 +22,10 @@
 
 `Re-design`
 
-<center>
+<p>
 <img src="UI_image/2_2.png" width="300px">
 <img src="UI_image/2_2-1.png" height="300px">
-</center>
+</p>
 
 </br>
 </br>
@@ -44,10 +42,10 @@
 
 `Re-design`
 
-<center>
-<img src="UI_image/4_2-2.png" height="300px">
-<img src="UI_image/4_2.png" height="300px">
-</center>
+<p>
+<img src="UI_image/4_2-2.PNG" height="300px">
+<img src="UI_image/4_2.PNG" height="300px">
+</p>
 
 </br>
 
@@ -56,14 +54,16 @@
 `Initial design`
 |UI|Analysis|
 |--|--|
-| <img src="UI_image/3_1.png" height="300px">|- 현재 메뉴 주문 내역과 실제 음식 수령 내역을 확인 </br> - 판매 메뉴에 대한 최대 판매 수량 </br> - 주문 현황을 보고 바로 메뉴를 비활성화할 수 있도록 버튼을 추가해야함|
+| <img src="UI_image/3_1.PNG" height="300px">|- 현재 메뉴 주문 내역과 실제 음식 수령 내역을 확인 </br> - 판매 메뉴에 대한 최대 판매 수량 </br> - 주문 현황을 보고 바로 메뉴를 비활성화할 수 있도록 버튼을 추가해야함|
 
 `Redesign`
 
-<center>
-<img src="UI_image/3_2.png" height="300px">
-</center>
+<p>
+<img src="UI_image/3_2.PNG" height="300px">
+</p>
+
+---
+<br/>
 
 # 전체 학식당 관리자
 
----
