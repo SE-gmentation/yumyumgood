@@ -67,3 +67,39 @@
 
 # 전체 학식당 관리자
 
+## 0. 진입 화면
+
+`Initial design`
+|UI|Analysis|
+|--|--|
+| <img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%901_1.PNG?raw=true" width = "250px" height="300px">|- 거래 트랜젝션, 통계 자료, 리뷰 관리의 총 세 가지 기능을 제공함. </br> - 서비스 권한의 안정성을 보장하기 위하여 자동 로그인이 지속되는 경우를 방지해야함. </br> 그러므로 실제 학식 전체 관리자가 이용 중일 때 30분 마다 로그인을 연장해서 사용하도록 기능을 추가함. (ex. 은행 서비스의 공공인증서 로그인 연장) |
+
+`Re-design`
+
+
+## 1. 거래 트랜젝션 보기
+
+`Initial design`
+|UI|Analysis|
+|--|--|
+| <p><img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%902_1.PNG?raw=true" height="300px"> <img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%902_1-2.PNG?raw=true" width="150px"> </p> | - 서비스 권한의 안정성을 보장하기 위하여 자동 로그인이 지속되는 경우를 방지해야함. </br> - 다른 날짜를 보려면 계속 버튼을 눌러야해서 불편하므로 캘린더로 날짜를 선택할 수 있도록 함. </br> 판매시간, 메뉴, 거래종류, 수량, total에 대한 트랜젝션을 확인하기 편하도록 표로 나타내주어야 함. </br> 이 때 __거래종류__ 와 __최신 순/오래된 순__ 에 따라도 표가 재정렬 되도록 탭바를 추가함. |
+
+`Re-design`
+
+
+
+## 2. 통계 자료 보기
+
+- 인기 상위 메뉴
+- 수익률 상위 메뉴
+
+`Initial design`
+|UI|Analysis|
+|--|--|
+| <p><img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%903_1.PNG?raw=true" height="300px"> <img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%903_1-2.PNG?raw=true" height="300px"></p>|- 서비스 권한의 안정성을 보장하기 위하여 자동 로그인이 지속되는 경우를 방지해야함. </br> - '냠냠굿' 자체 알고리즘으로 계산한 인기 메뉴와, 수익률 높은 메류를 나타냄 </br> 서비스의 신뢰를 위해 '냠냠굿' 기준 인기 메뉴와 수익률 높은 메뉴에 대한 설명을 추가함. </br> - 특정 기간에 대한 통계를 제공하기 위해 1주일, 1개월, 3개월, 6개월, 1년 단위의 기간을 선택할 수 있도록 탭바를 추가함. |
+
+`Re-design`
+
+
+
+</br>
