@@ -85,7 +85,7 @@
 `Initial design`
 |UI|Analysis|
 |--|--|
-| <p><img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%902_1.PNG?raw=true" height="300px"> <img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%902_1-2.PNG?raw=true" width="150px"> </p> | - 서비스 권한의 안정성을 보장하기 위하여 자동 로그인이 지속되는 경우를 방지해야함. </br> - 다른 날짜를 보려면 계속 버튼을 눌러야해서 불편하므로 캘린더로 날짜를 선택할 수 있도록 함. </br> 판매시간, 메뉴, 거래종류, 수량, total에 대한 트랜젝션을 확인하기 편하도록 표로 나타내주어야 함. </br> 이 때 __거래종류__ 와 __최신 순/오래된 순__ 에 따라도 표가 재정렬 되도록 탭바를 추가함. |
+| <p><img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%902_1.PNG?raw=true" height="300px"> <img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%902_1-2.PNG?raw=true" width="150px"> </p> | - 서비스 권한의 안정성을 보장하기 위하여 자동 로그인이 지속되는 경우를 방지해야함. </br> - 다른 날짜를 보려면 계속 버튼을 눌러야해서 불편하므로 캘린더로 날짜를 선택할 수 있도록 함. </br> 판매시간, 메뉴, 거래종류, 수량, total에 대한 트랜젝션을 확인하기 편하도록 표로 나타내주어야 함. </br> 이 때 __거래종류__ 와 __최신 순/오래된 순__ 에 따라 표가 재정렬 되도록 탭바를 추가함. |
 
 `Re-design`
 
@@ -101,7 +101,7 @@
 `Initial design`
 |UI|Analysis|
 |--|--|
-| <p><img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%903_1.PNG?raw=true" height="300px"> <img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%903_1-2.PNG?raw=true" height="300px"></p>|- 서비스 권한의 안정성을 보장하기 위하여 자동 로그인이 지속되는 경우를 방지해야함. </br> - '냠냠굿' 자체 알고리즘으로 계산한 인기 메뉴와, 수익률 높은 메류를 나타냄 </br> 서비스의 신뢰를 위해 '냠냠굿' 기준 인기 메뉴와 수익률 높은 메뉴에 대한 설명을 추가함. </br> - 특정 기간에 대한 통계를 제공하기 위해 1주일, 1개월, 3개월, 6개월, 1년 단위의 기간을 선택할 수 있도록 탭바를 추가함. |
+| <p><img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%903_1.PNG?raw=true" height="300px"> <img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%903_1-2.PNG?raw=true" height="300px"></p>|- 서비스 권한의 안정성을 보장하기 위하여 자동 로그인이 지속되는 경우를 방지해야함. </br> - '냠냠굿' 자체 알고리즘으로 계산한 인기 메뉴와, 수익률 높은 메뉴를 나타냄. </br> 서비스의 신뢰를 위해 '냠냠굿' 기준 인기 메뉴와 수익률 높은 메뉴에 대한 설명을 추가함. </br> - 특정 기간에 대한 통계를 제공하기 위해 1주일, 1개월, 3개월, 6개월, 1년 단위의 기간을 선택할 수 있도록 탭바를 추가함. |
 
 `Re-design`
 
