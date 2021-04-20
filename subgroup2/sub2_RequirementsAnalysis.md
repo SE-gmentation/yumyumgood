@@ -52,8 +52,8 @@ _To-do_
 1. ~User Interface 방식으로 requirements 작성하기
 _(각 식당 담당자, 중앙대 내 학식 전체 관리자의 입장에 따라 다른 UI 구성)_~
 
-2. Analysis를 바탕으로 Refined User Story 작성 -> new file
-_(Identifier 이름을 ST로 바꾸고 합쳐져야하거나 분리시켜야하는 요구사항들 생각해보기)_
+2. ~Analysis를 바탕으로 Refined User Story 작성 -> new file
+_(Identifier 이름을 ST로 바꾸고 합쳐져야하거나 분리시켜야하는 요구사항들 생각해보기)_~
 
 
 
