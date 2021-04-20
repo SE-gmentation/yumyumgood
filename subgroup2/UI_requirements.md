@@ -76,6 +76,9 @@
 
 `Re-design`
 
+<center>
+<img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%901_2.PNG?raw=true" height="300px">
+</center>
 
 ## 1. 거래 트랜젝션 보기
 
@@ -86,7 +89,9 @@
 
 `Re-design`
 
-
+<center>
+<img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%902_2.PNG?raw=true" height="300px">
+</center>
 
 ## 2. 통계 자료 보기
 
@@ -100,6 +105,11 @@
 
 `Re-design`
 
-
+<p>
+<img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%903_2-1.PNG?raw=true" height="300px">
+<img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%903_2-4.PNG?raw=true" height="300px"> </br>
+<img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%903_2-2.PNG?raw=true" width="300px">
+<img src="https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/UI_image/%EA%B4%80%EB%A6%AC%EC%9E%903_2-3.PNG?raw=true" width="300px">
+</p>
 
 </br>
