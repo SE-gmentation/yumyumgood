@@ -29,7 +29,8 @@
 
 ## Use Case Diagram
 
-![image](https://user-images.githubusercontent.com/65646971/115539498-04143180-a2d8-11eb-8a26-df86ce334d15.png)
+![image](https://user-images.githubusercontent.com/65646971/115902459-6c604000-a49d-11eb-8e0d-fcfb4fedd8b8.png)
+
 
 </br>
 
@@ -37,4 +38,5 @@
 
 [Refined User Story](https://github.com/SE-gmentation/yumyumgood/blob/main/subgroup2/sub2_RefinedUserStory.md)의 REQ 참고
 
-![image](https://user-images.githubusercontent.com/65646971/115543756-b64df800-a2dc-11eb-816a-4a3400680ffc.png)
+![image](https://user-images.githubusercontent.com/65646971/115903670-d1686580-a49e-11eb-801a-36beaffee96b.png)
+
