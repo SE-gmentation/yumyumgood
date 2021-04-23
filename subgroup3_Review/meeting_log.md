@@ -42,3 +42,9 @@ https://docs.google.com/document/d/1devfoseTOtxMVJAFdH-tK8oQTwzRp158eYJK9Z_Usr4/
 - Use Case별 Extract Responsibility 작성 후 Domain Model 그림 완성 (Use Case1에 대한 도메인 그림은 아직 미완성)<br>
 - Domain Model에 대한 Traceability Matrix 제출 여부 교수님께 확인받고 추후에 작성
 - *Due 04.24* : Use Case1에 대한 Domain Model 그림 완성 및 깃헙 파일구조 checkpoint1에 맞게 보기 좋게 정리
+
+### ✔️ 2021.04.23.Fri
+- Domain Models 모든 use cases 에 대하여 작성 완료(Use Case 1 포함)<br>
+- Checkpoint1 폴더 생성 후 보기 쉽게 폴더 구조 만들기<br>
+- 제출물 형식 모두 pdf로 변환하고 파일명 명확하게 수정<br>
+- *04.25* : 팀 전체 회의
