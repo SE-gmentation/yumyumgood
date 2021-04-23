@@ -203,19 +203,29 @@
 
 ### Extracting the Responsibilities
 
-| Responsibility Description | Type | Concept Name |
-| :------------------------: | :--: | :----------: |
+|                          Responsibility Description                          | Type |    Concept Name     |
+| :--------------------------------------------------------------------------: | :--: | :-----------------: |
+|          전체 시스템과 관련된 모든 컨셉의 작업을 조정하고 지시한다.          |  D   |     Controller      |
+|               캘린더에 올바른 날짜 정보를 보여주는 모달창 양식               |  K   |   Interface Page    |
+|                         캘린더를 페이지에 출력한다.                          |  D   |    CalendarMaker    |
+| Actor가 선택한 날짜에 대한 데이터베이스 질의문을 준비하고 레코드를 조회한다. |  D   | Database Connection |
 
 ### Extracting the Associations
 
-| Concept Pair | Associations description | Association Name |
-| :----------: | :----------------------: | :--------------: |
+|             Concept Pair             |                                  Associations description                                  | Association Name |
+| :----------------------------------: | :----------------------------------------------------------------------------------------: | :--------------: |
+|     InterfacePage <-> Controller     |                     Controller는 InterfacePage로부터 날짜 값을 받는다.                     |     receives     |
+|     InterfacePage <-> Controller     |             Controller는 InterfacePage에게 필터랑하여 조회한 레코드를 보낸다.              |      posts       |
+|   InterfacePage <-> CalendarMaker    |                         CalendarMaker는 Interface Page를 준비한다.                         |     prepares     |
+|     Controller <-> CalendarMaker     |       Controller는 CalendarMaker에게 요청을 전송하고 표시가 준비된 페이지를 받는다.        | conveys requests |
+| CalendarMaker <-> DatebaseConnection | Database Connection은 조회한 데이터를 렌더링하여 표시하기 위해 CalendarMaker에게 전달한다. |  provides data   |
 
 ### Extracting the Attributes
 
-| Concept | Attributes | Attribute Description |
-| :-----: | :--------: | :-------------------: |
+|    Concept    |  Attributes  | Attribute Description |
+| :-----------: | :----------: | :-------------------: |
+| InterfacePage | selectedDate |  현재 선택된 날짜 값  |
 
 ### Domain Model for UC-5
 
-| 캘린더를 화면에 출력하고 Actor에게 조회할 날짜를 입력받는다. | D | Date Picker |
+![UC-5](https://user-images.githubusercontent.com/52988414/115938638-6175d180-a4d6-11eb-9a9a-58c08a22b2c3.png)
