@@ -48,3 +48,8 @@ https://docs.google.com/document/d/1devfoseTOtxMVJAFdH-tK8oQTwzRp158eYJK9Z_Usr4/
 - Checkpoint1 폴더 생성 후 보기 쉽게 폴더 구조 만들기<br>
 - 제출물 형식 모두 pdf로 변환하고 파일명 명확하게 수정<br>
 - *04.25* : 팀 전체 회의
+
+### ✔️ 2021.05.10.Mon
+- Use cases 중 주요 기능 2가지 선택 : uc 2(학식 건물별 평점 확인), uc 4(리뷰 작성)<br>
+- 각 use case 역할 분담 
+- *Due 05.14* : 각자 맡은 use case 에 대하여 scenario walkthrough 작성
