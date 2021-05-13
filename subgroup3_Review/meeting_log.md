@@ -51,5 +51,10 @@ https://docs.google.com/document/d/1devfoseTOtxMVJAFdH-tK8oQTwzRp158eYJK9Z_Usr4/
 
 ### ✔️ 2021.05.10.Mon
 - Use cases 중 주요 기능 2가지 선택 : uc 2(학식 건물별 평점 확인), uc 4(리뷰 작성)<br>
-- 각 use case 역할 분담 
+- 각 use case 역할 분담<br>
 - *Due 05.14* : 각자 맡은 use case 에 대하여 scenario walkthrough 작성
+
+### ✔️ 2021.05.14.Thur
+- Scenario walkthrough 피드백 실시 <br>
+- Variation 구상 <br>
+- *Due 05.15* : sequence diagram with variations & 선택 이유, class diagram 작성
