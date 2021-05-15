@@ -1,4 +1,4 @@
-# [UC2] Class Diagram
+# Class Diagram
 
 > 20193057 김승아, 20190323 배인경
 

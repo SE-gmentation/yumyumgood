@@ -1,4 +1,4 @@
-# [UC2] Sequence Diagram
+# [UC5] Sequence Diagram
 
 > 20193057 김승아, 20190323 배인경
 
@@ -24,7 +24,7 @@
 
 ## Variation 1
 
-![class-Page-2](https://user-images.githubusercontent.com/52988414/118362459-88519000-b5ca-11eb-930b-8072e8da5e19.png)
+![class-Page-2 (1)](https://user-images.githubusercontent.com/52988414/118363791-0ca71180-b5d1-11eb-9743-b43ed9c46f70.png)
 
 ### 고민 사항
 
@@ -38,10 +38,10 @@ DB연결과 DB에 관한 사항은 배제하여 컨트롤러로 날짜 정보를
 
 ## Variation 2
 
-월 변경 버튼
+월 변경 버튼  
 ![image](https://user-images.githubusercontent.com/52988414/118362711-9bb12b00-b5cb-11eb-9123-7a6042bc20fc.png)
 
-일 변경 버튼
+일 변경 버튼  
 ![image](https://user-images.githubusercontent.com/52988414/118362724-a370cf80-b5cb-11eb-93d6-a119b657d481.png)
 
 ### 고민 사항
@@ -50,7 +50,7 @@ DB연결과 DB에 관한 사항은 배제하여 컨트롤러로 날짜 정보를
 
 ### 수정 결과
 
-![class-Page-3](https://user-images.githubusercontent.com/52988414/118362457-87b8f980-b5ca-11eb-9660-b2585ee67be7.png)
+![class-Page-3 (1)](https://user-images.githubusercontent.com/52988414/118363865-4ed05300-b5d1-11eb-9d93-e0ac7ad80044.png)
 
 ## Variation 3
 
@@ -68,4 +68,4 @@ DB연결과 DB에 관한 사항은 배제하여 컨트롤러로 날짜 정보를
 
 ## Final Sequence Diagram
 
-![class-Page-4 (1)](https://user-images.githubusercontent.com/52988414/118362458-88519000-b5ca-11eb-9042-0e93f67f250c.png)
+![class-Page-4 (2)](https://user-images.githubusercontent.com/52988414/118363783-09138a80-b5d1-11eb-80ce-856f9017fe75.png)
