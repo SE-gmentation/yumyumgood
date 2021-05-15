@@ -40,6 +40,7 @@ DB연결과 DB에 관한 사항은 배제하여 컨트롤러로 날짜 정보를
 
 월 변경 버튼
 ![image](https://user-images.githubusercontent.com/52988414/118362711-9bb12b00-b5cb-11eb-9123-7a6042bc20fc.png)
+
 일 변경 버튼
 ![image](https://user-images.githubusercontent.com/52988414/118362724-a370cf80-b5cb-11eb-93d6-a119b657d481.png)
 
