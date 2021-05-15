@@ -31,6 +31,6 @@
 **- 회의기록**<br>
 : meeting_log 폴더<br>
 
-**- 서브 그룹 별 Sequence Diagram / Class Diagram
+** - 서브 그룹 별 Sequence Diagram / Class Diagram
 : assignment3 폴더 -> 각 서브 그룹 폴더 확인
   ex) UC# Sequence Diagram & Class Diagram.pdf
