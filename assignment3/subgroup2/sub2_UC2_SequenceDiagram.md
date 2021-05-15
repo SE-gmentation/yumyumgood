@@ -90,4 +90,4 @@ Variation 2a처럼 🙂Controller에서 save()함수를 수행한 후 🙂Databa
 
 ## Final Sequence Diagram
 
-![image](https://user-images.githubusercontent.com/65646971/118358703-03ab4580-b5bb-11eb-8cae-b6f3000f8628.png)
+![image](https://user-images.githubusercontent.com/65646971/118362899-b2a44d00-b5cc-11eb-8784-2f4acc9b7ef2.png)

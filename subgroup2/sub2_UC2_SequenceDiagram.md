@@ -75,7 +75,7 @@
 <br/>
 
 ### Variation 2b
-![image](https://user-images.githubusercontent.com/65646971/118358706-07d76300-b5bb-11eb-8518-d7709f247e1a.png)
+![image](https://user-images.githubusercontent.com/65646971/118358791-74eaf880-b5bb-11eb-8f2b-4f7f2b10cf07.png)
 
 ### 고민 사항
 1. DB에 수정사항들을 save()하는 시점 <br/>
@@ -90,4 +90,4 @@ Variation 2a처럼 🙂Controller에서 save()함수를 수행한 후 🙂Databa
 
 ## Final Sequence Diagram
 
-![image](https://user-images.githubusercontent.com/65646971/118358703-03ab4580-b5bb-11eb-8cae-b6f3000f8628.png)
+![image](https://user-images.githubusercontent.com/65646971/118362899-b2a44d00-b5cc-11eb-8784-2f4acc9b7ef2.png)
