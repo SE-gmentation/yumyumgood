@@ -1,3 +1,8 @@
+## ✨ Github Link
+
+- https://github.com/SE-gmentation/yumyumgood_subgroup3
+
+
 ## 📢 SubGroup 3
 
 - 주제 소개 
