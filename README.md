@@ -31,6 +31,16 @@
 **- 회의기록**<br>
 : meeting_log 폴더<br>
 
-** - 서브 그룹 별 Sequence Diagram / Class Diagram
-: assignment3 폴더 -> 각 서브 그룹 폴더 확인
+**- 서브 그룹 별 Sequence Diagram / Class Diagram**<br>
+: assignment3 폴더 → 각 서브 그룹 폴더 확인
   ex) UC# Sequence Diagram & Class Diagram.pdf
+  
+## 📂 폴더구조 for assignment4
+
+**- 회의기록**<br>
+: meeting_log 폴더<br>
+
+**- 서브 그룹 별 readme.md**<br>
+: assignment4 폴더 → 각 서브 그룹 폴더에 구현에 대한 리드미 파일 존재 <br/>
+: 리드미 파일에 **서브그룹별 개발 respository 링크** 등록 -> *소스코드* 및 *개발 진행 과정* 볼 수 있음  <br/>
+
