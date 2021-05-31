@@ -2,6 +2,7 @@
 
 - https://github.com/SE-gmentation/yumyumgood_subgroup3
 
+<br/>
 
 ## 📢 SubGroup 3
 
@@ -90,6 +91,9 @@ Default. Clone this repository
   -  리뷰 기반의 감정 분석을 하기 위해 GRU 모델을 이용했다. 
   -  아래 사진은 사용자가 리뷰를 입력했다고 가정하고, 감정 분석의 결과를 테스트한 결과이다. </br>   
 ![감정분석 결과보기](https://user-images.githubusercontent.com/48883581/120184220-ae726380-c24b-11eb-9b54-f4bbcfccf70b.png)
+
+  -  아래 사진은 selenium을 이용해서 평점과 리뷰텍스트를 크롤링한 결과의 일부이다. </br>   
+![크롤링한 데이터](https://user-images.githubusercontent.com/48883581/120198879-94418100-c25d-11eb-80a7-3f3d7191ef5f.png)
 
 ---
 
